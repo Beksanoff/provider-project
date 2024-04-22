@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Testing Provider
+
+I tested the provider and everything worked well. I checked everything that was possible and I'm satisfied with the result.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
